@@ -9,7 +9,7 @@ When you have that working, modify your program to print "FizzBuzz" for numbers 
 
 let number = 100;
 
-for(let n = 0 ; n <=number ; n++)
+for(let n = 1 ; n <=number ; n++)
     {
         if ( n%3===0 && n%5===0)
         {
